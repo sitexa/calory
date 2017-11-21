@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "湖南卡路里健康管理有限公司"
 theme = "hugo-creative-theme"
+themesDir = "themes"
 googleAnalytics = ""
 
 [params]
@@ -21,7 +22,7 @@ googleAnalytics = ""
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
 	name = "calory"
-	description = "一个人"
+	description = "湖南卡路里健康管理有限公司"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
