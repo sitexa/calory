@@ -20,7 +20,7 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "彭南方"
+	name = "calory"
 	description = "一个人"
 
 	# The path must be relative to the static folder
@@ -90,6 +90,7 @@ googleAnalytics = ""
 		headline = "关注公众号"
 
 		[params.aside.button]
+		    icon = ""
 			text = "Download now"
 			link = "//github.com/digitalcraftsman/hugo-creative-theme"
 
