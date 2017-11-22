@@ -35,7 +35,7 @@ googleAnalytics = ""
 		[params.navigation.links]
 			about     = "关于"
 			services  = "产品﹒服务"
-			portfolio = "Portfolio"
+			portfolio = "项目"
 			contact   = "联系"
 
 
@@ -50,7 +50,7 @@ googleAnalytics = ""
 	# About section
 	[params.about]
 		headline    = "为您的健康服务"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		description = "[Lorem](//google.com) ipsum dolor sit [amet](//www.sitexa.cn), consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
 		buttonText  = "Get started!"
 
 
@@ -91,16 +91,15 @@ googleAnalytics = ""
 		headline = "关注公众号"
 
 		[params.aside.button]
-		    icon = ""
 			text = "Download now"
 			link = "//github.com/digitalcraftsman/hugo-creative-theme"
 
 	# Contact section
 	[params.contact]
 		headline = "联系我们!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		description = "[Ready](//www.sitexa.cn) to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
 		phone = "0731-89825917"
-		email = "service@calorie.cc"
+		email = "service@calory.cc"
 
 	# Google Maps section
 	# [params.location]
