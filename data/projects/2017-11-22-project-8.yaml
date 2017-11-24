@@ -1,8 +1,8 @@
 modalID: 2
-title: Project 2
-date: 2017-11-22
-img: 2.jpg
-client: Start Bootstrap
+title: 体质检测
+date: 2017-11-30
+img: chem.jpg
+client: 少年儿童
 clientLink: "#"
-category: Web Development
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+category: 健康检测
+description:

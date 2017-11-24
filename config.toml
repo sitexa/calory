@@ -41,7 +41,7 @@ googleAnalytics = ""
 
 	# Hero section
 	[params.hero]
-		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		# To change the background of the hero section, replace the 'header2.jpg' at './static/img' with your own.
 		slogan     = "运动是一切生命的源泉"
 		subtitle   = "如果追求生命质量是一种思维方式，身心健康是一种生命状态，那么运动健身则代表一种生活态度。珍惜生命，热爱生活，做一个身心健康、全面发展的人，提升生活品质，充满活力，精彩绽放自我，已成为越来越多追求生命质量的人们的共识。"
 
